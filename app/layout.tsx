@@ -20,9 +20,8 @@ const vt323 = VT323({
 })
 
 export const metadata: Metadata = {
-  title: "NEON-DRIVE // Study Terminal",
-  description: "A retro-futurist command center for the 21st-century student. Study like it's 1986.",
-  generator: "v0.app",
+  title: "NEON-DRIVE // AIS-85",
+  description: "Study like it's 1986. Made by students of AIS-85 For an event!",
 }
 
 export const viewport: Viewport = {
